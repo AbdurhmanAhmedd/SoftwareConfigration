@@ -1,2 +1,3 @@
 # SoftwareConfigration
-Software Configuration Repository for testing and assignments
+Software Configuration Repository 
+- This repo is for testing/assignments
